@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "overworldrespawn",
+    "name": "Overworld Respawn",
+    "description": "Prevents players from respawning in other dimensions.",
+    "version": "${version}",
+    "credits": "Noobanidus",
+    "logoFile": "assets/overworldrespawn/textures/logo.png",
+    "mcversion": "${mc_version}",
+    "url": "http://github.com/noobanidus/overworldrespawn",
+    "updateUrl": "",
+    "authorList": [
+      "Noobanidus"
+    ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+      "forge"
+    ]
+  }
+]
